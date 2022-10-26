@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RMoh05
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Bionformatics and Statistical Modelling 
 - 🌱 I’m currently learning Machine Learning in Python
-- 💞️ I’m looking to collaborate on Big Data Analytics in Biomedicine, Bionformatics, Biostatistics 
+- 💞️ I’m looking to collaborate on Big Data Analytics in Biomedicine and Healthcare, Bionformatics, Biostatistics 
 - 📫 How to reach me you can email me on rmoholisa@gmail.com 
 
 <!---
