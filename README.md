@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RMoh05
-- 👀 I’m interested in Pharmacometrics Machine Learning, Artificial Intelligence, Bionformatics and Statistical Modelling 
+- 👀 I’m interested in Pharmacometrics, Machine Learning, Artificial Intelligence, Bionformatics and Statistical Modelling 
 - 🌱 I’m currently learning Machine Learning in Python
 - 💞️ I’m looking to collaborate on Big Data Analytics in Biomedicine and Healthcare, Pharmacometrics, Bionformatics, Biostatistics 
 - 📫 How to reach me you can email me on rmoholisa@gmail.com 
